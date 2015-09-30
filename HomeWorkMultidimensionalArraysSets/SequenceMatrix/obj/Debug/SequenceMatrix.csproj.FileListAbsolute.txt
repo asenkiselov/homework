@@ -1,0 +1,5 @@
+C:\Users\user1\Documents\Visual Studio 2015\Projects\HomeWorkMultidimensionalArraysSets\SequenceMatrix\bin\Debug\SequenceMatrix.exe.config
+C:\Users\user1\Documents\Visual Studio 2015\Projects\HomeWorkMultidimensionalArraysSets\SequenceMatrix\bin\Debug\SequenceMatrix.exe
+C:\Users\user1\Documents\Visual Studio 2015\Projects\HomeWorkMultidimensionalArraysSets\SequenceMatrix\bin\Debug\SequenceMatrix.pdb
+C:\Users\user1\Documents\Visual Studio 2015\Projects\HomeWorkMultidimensionalArraysSets\SequenceMatrix\obj\Debug\SequenceMatrix.exe
+C:\Users\user1\Documents\Visual Studio 2015\Projects\HomeWorkMultidimensionalArraysSets\SequenceMatrix\obj\Debug\SequenceMatrix.pdb

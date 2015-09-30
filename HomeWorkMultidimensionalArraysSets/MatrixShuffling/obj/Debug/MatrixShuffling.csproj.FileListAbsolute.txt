@@ -1,0 +1,5 @@
+C:\Users\user1\Documents\Visual Studio 2015\Projects\HomeWorkMultidimensionalArraysSets\MatrixShuffling\bin\Debug\MatrixShuffling.exe.config
+C:\Users\user1\Documents\Visual Studio 2015\Projects\HomeWorkMultidimensionalArraysSets\MatrixShuffling\bin\Debug\MatrixShuffling.exe
+C:\Users\user1\Documents\Visual Studio 2015\Projects\HomeWorkMultidimensionalArraysSets\MatrixShuffling\bin\Debug\MatrixShuffling.pdb
+C:\Users\user1\Documents\Visual Studio 2015\Projects\HomeWorkMultidimensionalArraysSets\MatrixShuffling\obj\Debug\MatrixShuffling.exe
+C:\Users\user1\Documents\Visual Studio 2015\Projects\HomeWorkMultidimensionalArraysSets\MatrixShuffling\obj\Debug\MatrixShuffling.pdb

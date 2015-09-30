@@ -1,0 +1,1 @@
+C:\Users\user1\Documents\Visual Studio 2015\Projects\HomeWorkMultidimensionalArraysSets\CountSymbols\bin\Debug\CountSymbols.exe.config
